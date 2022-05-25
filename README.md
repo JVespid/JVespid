@@ -1,9 +1,3 @@
 
--> Mi nombre es Bernardo Abel Lopez Sanchez
--
--> soy estudiante de ingenieria en computo, al igual, soy un entusiasta de la programacion y quiero formar parte de la comunidad de programadores, como un desarrollador para poder Mejorar personalmente y ayudar a la comunidad.
--
--
--
--
-
+| <a href="https://github.com/anuraghazra/github-readme-stats" title="Most Used Language"><img align="center" src="https://github-readme-stats-git-master-doguedogue.vercel.app/api/top-langs/?username=doguedogue&hide=SCSS,CSS,HTML,CSS,Jupyter%20Notebook,Vue,Dockerfile,Shell,Typescript&layout=compac&theme=tokyonight" alt="Top langs" /> </a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-git-master-doguedogue.vercel.app/api?username=doguedogue&show_icons=true&theme=tokyonight" alt="My stats" /></a> |
+| ------------- | ------------- |
