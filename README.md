@@ -1,13 +1,12 @@
 
-| <a href="https://github.com/anuraghazra/github-readme-stats" title="Most Used Language">
-  
-  <img align="center" src="https://github-readme-stats-git-master-doguedogue.vercel.app/api/top-langs/?username=JVespid&hide=SCSS,CSS,HTML,CSS,Jupyter%20Notebook,Vue,Dockerfile,Shell,Typescript&layout=compac&theme=tokyonight" alt="Top langs" /> 
+![Anurags GitHub stats](https://github-readme-stats.vercel.app/api?username=JVespid&theme=bear)
 
-</a>
-| 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats-git-master-doguedogue.vercel.app/api?username=JVespid&show_icons=true&theme=tokyonight" alt="My stats" />
-</a> 
+----------------------------------------------------------------
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JVespid&langs_count=10&show_icons=true&theme=bear )](https://github.com/anuraghazra/github-readme-stats)
 
-|
-| ------------- | ------------- |
+
+----------------------------------------------------------------
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JVespid&repo=github-readme-stats&show_icons=true&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
+
+
