@@ -39,8 +39,9 @@ const createObjet = () => {
     Presentation : {
       en:`Hello, I have been a software developer for over 2 years.
          I enjoy technology and animation in general. Nice to meet you.`,
-      es:`Hola he sido desarrollador de software desde hace mas de 2 años,
-          me gusta la tecnología y la animación en general, un gusto conocerte.`,
+      
+      es:`Hola, he sido desarrollador de software desde hace más de 
+         2 años. Me gusta la tecnología y la animación en general. Un gusto conocerte.`,
     }
     languages: ["Spanish", "English"],
   });
