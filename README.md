@@ -5,6 +5,7 @@
 | wa ha ha |
 | :------- |
 
+<!--
 ```bash
 JVespid@github ~/JVespid-AboutMe (main)> npm install AboutMe
 JVespid@github ~/JVespid-AboutMe (main)> npm run dev
@@ -18,6 +19,7 @@ JVespid@github ~/JVespid-AboutMe (main)> npm run dev
 wa ha ha
 ```
 
+-->
 ```js
 const AboutMe = require("AboutMe");
 
