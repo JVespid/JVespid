@@ -1,6 +1,6 @@
-# Bernardo Abel Lopez Sanchez
+# Bernardo Abel
 
-## Programador web fullstack
+## Programador web
 
 | wa ha ha |
 | :------- |
